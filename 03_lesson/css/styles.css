@@ -1,0 +1,9 @@
+body {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: aquamarine;
+    /* color: chartreuse; */
+    /* color: rgb(255, 0 , 0); */
+    color: rgba(8, 10, 5, 1);
+}
